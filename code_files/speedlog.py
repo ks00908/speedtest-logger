@@ -1,6 +1,6 @@
 ######################################################################
 #                      PYTHON SPEED LOGGER                           #
-#                  by  ks0908/Krzysztof Szypuła                      #
+#                  by  ks00908/Krzysztof Szypuła                      #
 ######################################################################
 
 
@@ -8,7 +8,6 @@
 import speedtest
 import logging
 import time
-import os
 from datetime import datetime
 print("Setting up connection to speedtest.com servers to begin testing connection speed.\nPlease wait, no interaction with program in needed.\nTests will automatically happen each 10 minutes\nTest measurement will be confirmed by console print\n\n")
 
